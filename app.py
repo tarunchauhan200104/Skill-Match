@@ -28,6 +28,7 @@ tips = """
 Follow these steps:
 1. Upload a PDF resume in the sidebar
 2. Provide a job description to match
+3. Click on 'MATCH NOW' to get the analysis report
 """
 st.write(tips)
 
